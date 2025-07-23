@@ -1,6 +1,4 @@
 # MorphoDynamicNet
-新型架构
-Code
 There are two folders and two file under the code directory:
 
 MorphoDynamicNet.py
